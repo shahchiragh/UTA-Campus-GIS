@@ -2,7 +2,7 @@ Project: Designing University of Texas at Arlington's map on GIS and Spatial Dat
 Course: Advanced Database Systems CSE 6331, Spring 2018
 
 Team: Section-G
-Name of Team members: Mansoor Abbas Ali(1001453343) and Chirag Hareshkumar Shah(1001558825)
+Name of Team members: Mansoor Abbas Ali(1001453343) and Chirag Hareshkumar Shah(1001558824)
 
 Directory Structure:
 1. KML : Consists of complete UTA Map, where in all Building geometries are under "Polygons" folder tag, all Path LineStrings
